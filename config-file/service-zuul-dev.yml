@@ -7,5 +7,5 @@ zuul:
       path: /server-b/**
       serviceId: SERVER-B
     server-c:
-      path: /server-a/**
+      path: /server-c/**
       serviceId: SERVER-A
