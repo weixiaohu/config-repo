@@ -1,11 +1,11 @@
 zuul:
   routes:
-    server-a:
+    serverA:
       path: /server-a/**
       serviceId: SERVER-A
-    server-b:
+    serverB:
       path: /server-b/**
       serviceId: SERVER-B
-    server-c:
+    serverC:
       path: /server-c/**
       serviceId: SERVER-A
